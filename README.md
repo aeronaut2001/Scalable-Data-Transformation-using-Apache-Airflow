@@ -54,5 +54,11 @@
 - [x] **Impact and Achievements:**
 - Enhanced data processing efficiency and reliability through optimized workflows.
 - Demonstrated proficiency in ETL design, Spark job orchestration, and cloud-based workflow automation.
+- [x] **The PySpark script provided processes CSV data by:**
+  - Initializing a SparkSession for interaction with Spark.
+  - Defining paths for input/output data on Google Cloud Storage (GCS).
+  - Reading CSV files into Spark DataFrames with inferred schema and headers.
+  - Performing data operations like filtering .
+  - Writing the transformed data back to GCS in a CSV file ('joined_output.csv').
 - [x] **Conclusion:**
 - This project exemplifies the successful construction of ETL pipeline using Apache Airflow and Google Cloud Dataproc. The focus on efficient Spark job management and automated workflows underscores its capability in handling extensive data tasks seamlessly. Leveraging cloud-based solutions highlighted expertise in optimizing data workflows, resulting in enhanced processing efficiency and reliability. This project showcases prowess in ETL design, Spark job orchestration, and cloud-based automation, significantly streamlining data processing within a scalable environment.
